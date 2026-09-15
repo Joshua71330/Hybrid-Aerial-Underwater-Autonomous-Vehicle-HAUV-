@@ -9,7 +9,7 @@
 
 **[🇫🇷 Version française](#-français)** · **[🇬🇧 English version](#-english)**
 
-![Enveloppe CFD du drone HAUV — vues de dessus, de face et de profil](./drone_final_check.png)
+![Enveloppe CFD du drone HAUV — vues de dessus, de face et de profil](.Screenshot_4.png)
 
 ---
 
